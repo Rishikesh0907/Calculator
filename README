@@ -1,0 +1,24 @@
+# Calculator
+Follow these steps to install and run the calculator on Windows.
+
+## Step 1: Install Python Libraries
+1. Open your terminal.
+2. Run the command - pip install library_name
+3. After installation open this Calculator folder on any code editor (VS Code/IDLE).
+
+## Step 5: Run the calculator
+1. Open the folder that contains `Calculator.py`.
+2. Click the folder's address bar, type `cmd`, and press Enter.
+3. In the Command Prompt window, type this command and press Enter:
+
+   ```text
+   python Calculator.py
+   ```
+
+4. If `python` does not work, try:
+
+   ```text
+   python -m Calculator.py
+   ```
+
+The calculator window should open.
